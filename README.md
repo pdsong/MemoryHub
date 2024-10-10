@@ -1,2 +1,2 @@
-# -MemoryHub
-MemoryHub is a comprehensive platform designed to help users organize and manage their personal collections of web links, books, and movies while supporting vocabulary learning. 
+# MemoryHub
+MemoryHub is a comprehensive platform designed to help users organize and manage their personal collections of web links, books, and movies while supporting vocabulary learning. By extracting key words from your collections, MemoryHub enables efficient word memorization using spaced repetition techniques, inspired by Anki. It combines the power of information storage and advanced learning strategies, making it an essential tool for both organizing your digital content and expanding your vocabulary knowledge.
